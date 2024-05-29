@@ -1,0 +1,3 @@
+TOKEN = '6639152408:AAHJXbqKQIX5sH3l-V8ez7YW8Ta5n96mfb0'
+admins = 1019484223
+chat = ''
